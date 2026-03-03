@@ -1,1 +1,1 @@
-// Placeholder content for frontend/src/components/Sidebar.jsx
+export default function Sidebar(){return <div>Sidebar</div>;}

@@ -1,1 +1,1 @@
-// Placeholder content for frontend/src/components/Topbar.jsx
+export default function Topbar(){return <div>Topbar</div>;}
