@@ -1,1 +1,1 @@
-// Placeholder content for frontend/postcss.config.js
+export default {plugins:{tailwindcss:{},autoprefixer:{}}};
